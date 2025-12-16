@@ -1,5 +1,10 @@
 🎓 Smart College Complaint Management System
 
+## 🌐 Live Demo (Public Link)
+
+👉 https://smart-college-complaint-system.streamlit.app
+
+
 A web-based complaint management system built using **Streamlit**, **Python**, and **SQLite**.
 
 ## 🔹 Features
